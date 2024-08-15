@@ -29,7 +29,7 @@ This is a simple Node.js API that fetches holiday data for a given country and y
 
 1. **Clone the repository:**
     ```bash
-    https://github.com/ab958/holiday-api.git
+    git clone https://github.com/ab958/holiday-api.git
     cd holiday-api
     ```
 
